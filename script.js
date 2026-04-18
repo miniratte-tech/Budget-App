@@ -1,5 +1,5 @@
-const SUPABASE_URL = https://izswetacghaqelgjarij.supabase.co;
-const SUPABASE_ANON_KEY = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml6c3dldGFjZ2hhcWVsZ2phcmlqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY1MTkxMjksImV4cCI6MjA5MjA5NTEyOX0.K1FdnIXtr7RDbevCov2JYrE2b45LHbxHTVpAej-_ikg;
+const SUPABASE_URL = "https://izswetacghaqelgjarij.supabase.co";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml6c3dldGFjZ2hhcWVsZ2phcmlqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY1MTkxMjksImV4cCI6MjA5MjA5NTEyOX0.K1FdnIXtr7RDbevCov2JYrE2b45LHbxHTVpAej-_ikg";
 
 const WEEKLY_BUDGET = 200;
 
